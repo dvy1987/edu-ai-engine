@@ -85,8 +85,8 @@ This makes it an excellent work sample for product roles, frontend roles, AI too
 
 ## 🚀 Live Demo
 
-*(Optional — add your deployed link here)*
-`https://your-demo-url.com`
+https://lovable.dev/projects/509c4905-1b3a-445f-abce-d0a1dce6e473
+
 
 ---
 
